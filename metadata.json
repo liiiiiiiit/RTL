@@ -1,0 +1,6 @@
+{
+  "name": "RTL-LTR Toggle Bookmarklet",
+  "description": "Ready-to-use URL-encoded JavaScript bookmarklet to instantly toggle text direction between RTL and LTR on any webpage, with a live test sandbox and browser setup guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
